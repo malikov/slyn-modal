@@ -1,0 +1,33 @@
+{
+  "name": "slyn-modal",
+  "version": "0.0.1",
+  "description": "slyn-modal",
+  "main": "lib/index.js",
+  "keywords": [
+    "data-binder"
+  ],
+  "homepage": "https://github.com/malikov/slyn-modal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malikov/slyn-modal"
+  },
+  "author": {
+    "name": "Vincent Maliko",
+    "email": "malikovincent@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "q": "~1.4.1",
+    "underscore": "~1.8.3",
+    "jquery": "~2.1.4",
+    "slyn-core-base-controller": "^0.0.1",
+    "slyn-core-base-list-controller": "^0.0.2",
+    "slyn-core-dust-base-list-view": "^0.0.3",
+    "slyn-core-dust-base-view": "^0.0.2",
+    "slyn-data-binder": "^0.0.2",
+    "slyn-toastr": "^0.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/malikov/slyn-modal/issues"
+  }
+}
