@@ -1,6 +1,6 @@
 {
   "name": "slyn-modal",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "slyn-modal",
   "main": "lib/index.js",
   "keywords": [
@@ -25,7 +25,7 @@
     "slyn-core-dust-base-list-view": "^0.0.3",
     "slyn-core-dust-base-view": "^0.0.2",
     "slyn-data-binder": "^0.0.2",
-    "slyn-toastr": "^0.0.1"
+    "slyn-toastr": "^0.0.4"
   },
   "bugs": {
     "url": "https://github.com/malikov/slyn-modal/issues"
