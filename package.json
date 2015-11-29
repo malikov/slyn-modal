@@ -1,10 +1,10 @@
 {
   "name": "slyn-modal",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "slyn-modal",
   "main": "lib/index.js",
   "keywords": [
-    "data-binder"
+    "slyn-modal"
   ],
   "homepage": "https://github.com/malikov/slyn-modal",
   "repository": {
