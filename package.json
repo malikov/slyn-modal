@@ -1,6 +1,6 @@
 {
   "name": "slyn-modal",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "slyn-modal",
   "main": "lib/index.js",
   "keywords": [
@@ -20,8 +20,8 @@
     "q": "~1.4.1",
     "underscore": "~1.8.3",
     "jquery": "~2.1.4",
-    "slyn-core-base-controller": "^0.0.1",
-    "slyn-core-base-list-controller": "^0.0.2",
+    "slyn-core-base-controller": "^0.0.4",
+    "slyn-core-base-list-controller": "^0.0.4",
     "slyn-core-dust-base-list-view": "^0.0.3",
     "slyn-core-dust-base-view": "^0.0.2",
     "slyn-data-binder": "^0.0.2",
